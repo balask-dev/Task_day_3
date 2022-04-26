@@ -1,0 +1,55 @@
+{
+
+     "Personal_info": {
+        "Name":"Balamurugan",
+        "Email":"bala@gmail.com",
+        "Contact_num" :"9876543210",
+        "Address":"chennai,Tamil_nadu,india"
+    },
+
+    "Education":[
+        {
+        "Degree":"Bachelor in Electronics and communication engg",
+        "College":"A.V.C College of engg, Anna university",
+        "Year":"2013-2017"
+    },
+    {
+        "Diploma": "Diploma in Electronics and communication engg ",
+        "College": "A.V.C College of engg"
+        "Year":"2010-2013"
+    }  
+      
+],
+    "Experience":[
+   {
+        "Company":"AM event management",
+        "CompanyLevel":"startup",
+        "Position":"investor and managing accounts",
+        "Duration": "FEB 2016 - MAR 2018"
+       },
+   {
+        "Company" : "vignesh aqua forms and feeds",
+        "position" : "power system maintanance",
+        "Duration" : "MAR 2017 - APR 2019" 
+   }],
+
+      
+    { 
+    "Skills":
+    {
+        1:"Penetration testing",
+        2:"Network Security",
+        3:"Linux",
+        4:"SQL",
+        5:"Python",
+        6:"Javascript"
+    },
+
+    "Language": [
+          {"Tamil":"Native or bilingual proficiency"},
+           {"English":"Native or bilingual proficiency"}
+         ],
+}
+
+
+
